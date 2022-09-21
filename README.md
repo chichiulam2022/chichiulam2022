@@ -22,4 +22,11 @@ Hi everyone, welcome to my GitHub profile. My name is Chi Chiu Lam and I'm curre
 * University of Toronto Full-Stack Development Bootcamp (in progress)
 * University of Waterloo - French Studies/Études françaises
 
+## 🚀 Interests
+* 💻  happy coding
+* 🏸  badminton
+* 🎶  music
+* 🗽  travel
+* 📙  learning languages (both human and computer languages)
+
 
