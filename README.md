@@ -29,4 +29,5 @@ Hi everyone, welcome to my GitHub profile. My name is Chi Chiu Lam and I'm curre
 * 🗽  travel
 * 📙  learning languages (both human and computer languages)
 
-
+## 📱 Contact Me
+* [LinkedIn](https://www.linkedin.com/in/chichiu-lam-7142a771/)
