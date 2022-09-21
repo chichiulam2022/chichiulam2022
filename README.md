@@ -7,6 +7,13 @@ Hi everyone, welcome to my GitHub profile. My name is Chi Chiu Lam and I'm curre
 <img align="left" src="https://user-images.githubusercontent.com/108379616/191412255-23d85bc2-e1b0-4fe2-bb63-f8216212a827.svg" width="48">
 <img align="left" src="https://user-images.githubusercontent.com/108379616/191412392-ab3d9baa-c203-4d52-a6f4-23a6e68003d7.svg" width="48">
 
+<img align="left" src="https://user-images.githubusercontent.com/108379616/191412905-e278eefc-c1f2-4871-a9e9-58f809becc9b.png" width="48">
+
+
+
+
+
+
 
 ## 📖 Education
 
