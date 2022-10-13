@@ -1,4 +1,11 @@
+<img src="https://user-images.githubusercontent.com/108379616/195622943-7dcbf826-a089-429f-9ce7-2b614f9a4eb1.jpg" alt="drawing" style="width:1000px; height: 300px"/>
+
+
+
+
 ## 👋 Hello, Bonjour
+
+
 Hi everyone, welcome to my GitHub profile. My name is Chi Chiu Lam and I'm currently taking the full-stack web development certificate from the [University of Toronto School of Continuing Studies.](https://bootcamp.learn.utoronto.ca/coding/)
 </br>
 </br>
