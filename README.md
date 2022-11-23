@@ -41,4 +41,5 @@ Hi everyone, welcome to my GitHub profile. My name is Chi Chiu Lam and I'm curre
 
 ## 📱 Contact Me
 * [LinkedIn](https://www.linkedin.com/in/chichiu-lam-7142a771/)
+* [My Portfolio Page](https://chichiulam.netlify.app/)
 * [Email](mailto:lamcc90@gmail.com)
