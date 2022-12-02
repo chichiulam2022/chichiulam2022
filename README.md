@@ -1,10 +1,5 @@
 <img src="https://user-images.githubusercontent.com/108379616/195624935-db5ee47f-f0ec-46d9-8c8b-008f4ecd3c1b.jpeg" alt="drawing" style="width:1500px; height: 200px"/>
 
-
-
-
-
-
 ## 👋 Hello, Bonjour
 
 
@@ -23,6 +18,7 @@ Hi everyone, welcome to my GitHub profile. My name is Chi Chiu Lam and I'm curre
 <img align="left" src="https://user-images.githubusercontent.com/108379616/191414101-dc173292-65c6-44ea-bf22-637e181a6abe.png" width="48">
 <img align="left" src="https://user-images.githubusercontent.com/108379616/191414328-43e9c5b3-7ab4-4642-af7a-9ee4a8abdf10.png" width="55">
 <img align="left" src="https://user-images.githubusercontent.com/108379616/191414679-f75f9007-1e31-46d0-8208-c419aa3907d1.png" width="49">
+</br>
 </br>
 </br>
 </br>
