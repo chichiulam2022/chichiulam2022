@@ -26,12 +26,12 @@ Hi everyone, welcome to my GitHub profile. My name is Chi Chiu Lam and I'm curre
 </br>
 </br>
 </br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chichiulam2022&&theme=aura"/>
+
 
 
 ## My Status
 [![Chi Chiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chichiulam2022&show_icons=true&&theme=midnight-purple)](https://github.com/chichiulam2022/github-readme-stats)
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chichiulam2022"/>
 
 
 ## 📖 Education
