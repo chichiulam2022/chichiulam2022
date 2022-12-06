@@ -10,6 +10,7 @@ Hi everyone, welcome to my GitHub profile. My name is Chi Chiu Lam and I'm curre
 </br>
 
 ![Alt Text](https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif)
+![Alt Text](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
 
 
