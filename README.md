@@ -7,6 +7,7 @@
 
 Hi everyone, welcome to my GitHub profile. My name is Chi Chiu Lam and I'm currently taking the full-stack web development certificate from the [University of Toronto School of Continuing Studies.](https://bootcamp.learn.utoronto.ca/coding/) I really love fullend work and also would love to explore more UX/UI knowledge with coding.
 </br>
+</br>
 ![Alt Text](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
 
