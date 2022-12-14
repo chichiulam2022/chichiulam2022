@@ -12,7 +12,7 @@ Hi everyone, welcome to my GitHub profile. My name is Chi Chiu Lam and I'm curre
 
 
 ## 💻 Languages & Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,mongodb,mysql,graphql,jquery,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,mongodb,mysql,graphql,jquery,bootstrap,sass)](https://skillicons.dev)
 </br>
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chichiulam2022&&theme=aura"/>
