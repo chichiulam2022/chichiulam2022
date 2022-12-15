@@ -23,6 +23,8 @@ Hi everyone, welcome to my GitHub profile. My name is Chi Chiu Lam and I'm curre
 ## My Status
 [![Chi Chiu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chichiulam2022&show_icons=true&&theme=midnight-purple)](https://github.com/chichiulam2022/github-readme-stats)
 
+<a href="http://www.github.com/chichiulam2022"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=chichiulam2022&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
 
 ## 📖 Education
 * University of Toronto Full-Stack Development Bootcamp (in progress)
