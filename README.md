@@ -11,7 +11,6 @@ Hi everyone, welcome to my GitHub profile. My name is Chi Chiu Lam and I'm curre
 ![Alt Text](https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif)
 
 
-
 ## 💻 Languages & Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,typescript,react,mongodb,mysql,graphql,jquery,bootstrap,sass,materialui)](https://skillicons.dev)
 </br>
@@ -25,7 +24,6 @@ Hi everyone, welcome to my GitHub profile. My name is Chi Chiu Lam and I'm curre
 <br />
 
 <div width="100%" align="center"><a href="https://github.com/chichiulam2022/NoMadTravels_blog" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chichiulam2022&repo=NoMadTravels_blog&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div>
-<br />
 <br />
 <br />
 <br />
