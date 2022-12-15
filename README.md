@@ -2,7 +2,7 @@
 
 
 
-## 👋 Hello, Bonjour
+## <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30" height="30"/> Hello, Bonjour
 
 
 Hi everyone, welcome to my GitHub profile. My name is Chi Chiu Lam and I'm currently taking the full-stack web development certificate from the [University of Toronto School of Continuing Studies.](https://bootcamp.learn.utoronto.ca/coding/) I really love fullend work and also would love to explore more UX/UI knowledge with coding.
@@ -17,7 +17,7 @@ Hi everyone, welcome to my GitHub profile. My name is Chi Chiu Lam and I'm curre
 </br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chichiulam2022&&theme=aura"/>
 
-## My Top Repositories
+## 🧑🏽‍🚀 My Top Repositories
 
 <div width="100%" align="center"><a href="https://github.com/chichiulam2022/hotel_booking" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chichiulam2022&repo=hotel_booking&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/chichiulam2022/Portfolio_React" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=chichiulam2022&repo=Portfolio_React&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div><br />
 <br />
